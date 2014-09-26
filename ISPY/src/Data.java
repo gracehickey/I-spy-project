@@ -1,7 +1,11 @@
 import java.util.ArrayList;
 public class Data
 	{
-	static String blue [] = {"x", "y", "z"};
+	static String blue [] = {"marker", "blanket", "cup"};
+	static String pink [] = {"heart", "bracelet", "pencil"};
+	static String black [] = {"dog", "clock", "shoes"};
+	static String yellow [] = {"lemon", "door", "crayon"};
+	static String red [] = {"apple", "pen", "jacket"};
 	public static void addData()
 		{
 
